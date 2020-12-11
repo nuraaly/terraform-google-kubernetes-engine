@@ -22,3 +22,4 @@ module "cluster" {
 ```
 terraform init 
 terraform apply 
+```
